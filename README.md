@@ -1,6 +1,4 @@
 # Version-Control-Task
-Version contron assessment task 
-# Version-Control-Task
  ## What is version control
  Version Contol is the process of tracking and managing changes made to software code over time. 
 
